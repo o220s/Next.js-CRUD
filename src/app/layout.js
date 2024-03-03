@@ -22,5 +22,6 @@ export default async function RootLayout({ children }) {    // 캐시를 쓰지�
         <Control />
       </body>
     </html>
+    
   )
 }
